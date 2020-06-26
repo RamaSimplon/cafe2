@@ -6,10 +6,12 @@
   
 html,body {
 color: #222;
+font-family: 'Montserrat', sans-serif;
 }
 
 h1{
     margin-bottom: 0;
+    
 }
 
 a {
